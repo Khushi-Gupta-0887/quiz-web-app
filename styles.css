@@ -1,0 +1,33 @@
+body{
+  margin: 1em;
+  padding: 2%;
+  padding: 0;
+  background-image: linear-gradient(rgb(251, 247, 247), rgb(142, 190, 212));
+
+}
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 900;
+  font-size: 3em;
+  color: #08074b;
+}
+.question{
+  font-weight: 900;
+}
+button{
+  color: #08074b;
+  font-weight: bold;
+  font-size: large;
+  filter: drop-shadow(2px 2px 5px #08077b);
+  border: none;
+  border-radius: 25px;
+  padding: 2%;
+  margin: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.result{
+  color: rgb(7, 68, 7);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2.5rem;
+}
